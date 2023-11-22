@@ -4,6 +4,7 @@ public class Patient {
 	
 	private static String name = "Muneesa Majid";
 	private static int age = 25;
+	private static String gender = "Female";
 	
 	public static String deletePatient()
 	{
