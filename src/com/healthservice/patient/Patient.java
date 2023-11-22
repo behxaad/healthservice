@@ -15,6 +15,11 @@ public class Patient {
 		return "Patient is deleted";
 	}
 	
+	public static String noWork()
+	{
+		return "Dummy Feature";
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println(addPatient());
